@@ -2,7 +2,7 @@
 [![Coverage](https://img.shields.io/codecov/c/github/walle/tyda-api.svg?style=flat)](https://codecov.io/github/walle/tyda-api)
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/walle/tyda-api)
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda-api/master/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/walle/tyda-api)](http:/goreportcard.com/report/walle/tyda-api)
+[![Go Report Card](https://goreportcard.com/badge/walle/tyda-api)](http:/goreportcard.com/report/walle/tyda-api)
 
 # tyda-api
 
